@@ -19,7 +19,7 @@ from data preprocessing to model evaluation.
 
 ## 🛠️ Technologies Used
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.11-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Keras](https://img.shields.io/badge/Keras-3.x-red)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-yellow)
